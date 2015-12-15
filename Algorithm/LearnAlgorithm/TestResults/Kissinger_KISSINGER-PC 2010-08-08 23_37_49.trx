@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0c402ea0-a4c7-4abd-8a10-f2e5534c9b99" name="Kissinger@KISSINGER-PC 2010-08-08 23:37:49" runUser="Kissinger-PC\Kissinger" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="eac800e8-48a9-4df0-a77d-24e4cc3a76e4">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Kissinger_KISSINGER-PC 2010-08-08 23_37_49">
+      <DeploymentItem filename="D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithm\bin\Debug\LearnAlgorithm.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-08-08T23:37:49.5142808+08:00" queuing="2010-08-08T23:37:50.4373336+08:00" start="2010-08-08T23:37:50.6453455+08:00" finish="2010-08-08T23:38:17.6528903+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="KISSINGER-PC" outcome="Error" timestamp="2010-08-08T23:38:17.6478900+08:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="RecQuickSortTest" storage="d:\my documents\algorithmprojects\algorithm\learnalgorithm\learnalgorithmtest\bin\debug\learnalgorithmtest.dll" id="47d94284-a474-b3b8-7de3-4ea22fe735e7">
+      <Execution id="bf1f0c81-adbc-44af-a00b-7c9897b3d4f2" />
+      <TestMethod codeBase="D:/My Documents/AlgorithmProjects/Algorithm/LearnAlgorithm/LearnAlgorithmTest/bin/Debug/LearnAlgorithmTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LearnAlgorithmTest.AdvancedSortingTest, LearnAlgorithmTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RecQuickSortTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="47d94284-a474-b3b8-7de3-4ea22fe735e7" executionId="bf1f0c81-adbc-44af-a00b-7c9897b3d4f2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bf1f0c81-adbc-44af-a00b-7c9897b3d4f2" testId="47d94284-a474-b3b8-7de3-4ea22fe735e7" testName="RecQuickSortTest" computerName="KISSINGER-PC" duration="00:00:26.8395352" startTime="2010-08-08T23:37:50.8133551+08:00" endTime="2010-08-08T23:38:17.6528903+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf1f0c81-adbc-44af-a00b-7c9897b3d4f2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

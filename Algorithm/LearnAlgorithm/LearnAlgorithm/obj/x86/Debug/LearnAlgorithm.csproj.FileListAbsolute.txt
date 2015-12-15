@@ -1,0 +1,5 @@
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithm\bin\Debug\LearnAlgorithm.exe
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithm\bin\Debug\LearnAlgorithm.pdb
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithm\obj\x86\Debug\LearnAlgorithm.exe
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithm\obj\x86\Debug\LearnAlgorithm.pdb

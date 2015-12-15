@@ -1,0 +1,9 @@
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\bin\Debug\LearnAlgorithmTest.dll
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\bin\Debug\LearnAlgorithm.exe
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\bin\Debug\LearnAlgorithm.pdb
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\bin\Debug\LearnAlgorithm_Accessor.exe
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\bin\Debug\LearnAlgorithm_Accessor.pdb
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\obj\Debug\LearnAlgorithmTest.dll
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\obj\Debug\LearnAlgorithmTest.pdb
+D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithmTest\bin\Debug\LearnAlgorithmTest.pdb

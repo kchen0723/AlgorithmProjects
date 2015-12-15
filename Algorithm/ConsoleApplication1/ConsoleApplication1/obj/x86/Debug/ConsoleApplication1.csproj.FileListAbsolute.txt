@@ -1,0 +1,5 @@
+D:\My Documents\AlgorithmProjects\Algorithm\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\My Documents\AlgorithmProjects\Algorithm\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\My Documents\AlgorithmProjects\Algorithm\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\AlgorithmProjects\Algorithm\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\My Documents\AlgorithmProjects\Algorithm\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

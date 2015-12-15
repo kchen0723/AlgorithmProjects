@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c099c0fd-c8b6-49c6-aadd-76404abd237d" name="Kissinger@KISSINGER-PC 2010-08-09 23:15:30" runUser="Kissinger-PC\Kissinger" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="eac800e8-48a9-4df0-a77d-24e4cc3a76e4">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Kissinger_KISSINGER-PC 2010-08-09 23_15_30">
+      <DeploymentItem filename="D:\My Documents\AlgorithmProjects\Algorithm\LearnAlgorithm\LearnAlgorithm\bin\Debug\LearnAlgorithm.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-08-09T23:15:30.7354548+08:00" queuing="2010-08-09T23:15:31.8225170+08:00" start="2010-08-09T23:15:31.9775259+08:00" finish="2010-08-09T23:20:38.4560554+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="KISSINGER-PC" outcome="Error" timestamp="2010-08-09T23:20:38.4520552+08:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="InsertTest" storage="d:\my documents\algorithmprojects\algorithm\learnalgorithm\learnalgorithmtest\bin\debug\learnalgorithmtest.dll" id="18ec1b9f-2eba-709a-5677-fc884c29ffd8">
+      <Execution id="71906f5c-1fd6-475b-bf58-4e88f3306628" />
+      <TestMethod codeBase="D:/My Documents/AlgorithmProjects/Algorithm/LearnAlgorithm/LearnAlgorithmTest/bin/Debug/LearnAlgorithmTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LearnAlgorithmTest.SkipListTest, LearnAlgorithmTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InsertTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="18ec1b9f-2eba-709a-5677-fc884c29ffd8" executionId="71906f5c-1fd6-475b-bf58-4e88f3306628" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="71906f5c-1fd6-475b-bf58-4e88f3306628" testId="18ec1b9f-2eba-709a-5677-fc884c29ffd8" testName="InsertTest" computerName="KISSINGER-PC" duration="00:05:06.3605228" startTime="2010-08-09T23:15:32.0955326+08:00" endTime="2010-08-09T23:20:38.4560554+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71906f5c-1fd6-475b-bf58-4e88f3306628">
+    </UnitTestResult>
+  </Results>
+</TestRun>
